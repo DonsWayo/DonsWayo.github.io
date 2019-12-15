@@ -4,7 +4,7 @@
   "name": "Juan Jose Carracedo",
   "userimg": "https://avatars2.githubusercontent.com/u/34981526?v=4",
   "sort": "star",
-  "order": "desc",
+  "order": "asc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
